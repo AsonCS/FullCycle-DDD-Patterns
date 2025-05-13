@@ -8,6 +8,4 @@
 
 ## Domain Events de Customer [Customer events](/src/infrastructure/order/repository/sequilize)
 
-### Output
-
-[test-report.pdf](/test-report.pdf)
+### Output [Test Report pdf](/test-report.pdf)
